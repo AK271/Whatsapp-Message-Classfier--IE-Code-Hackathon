@@ -14,4 +14,5 @@ The model.pkl file consists of the final model that we used to classify
 
 
 Screenshots of web app deployed:
+
 ![message classifier](https://user-images.githubusercontent.com/56452072/113584860-79c3a080-963c-11eb-9955-02a415285aad.png)
